@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23075" started-at="2018-11-12T05:01:40Z" finished-at="2018-11-12T05:02:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23075" started-at="2018-11-12T05:01:40Z" finished-at="2018-11-12T05:02:04Z">
+      <class name="Scripts.ValidLogin">
+        <test-method status="PASS" signature="Login()[pri:0, instance:Scripts.ValidLogin@1fcfece]" name="Login" duration-ms="23025" started-at="2018-11-12T10:31:40Z" finished-at="2018-11-12T10:32:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+      </class> <!-- Scripts.ValidLogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
